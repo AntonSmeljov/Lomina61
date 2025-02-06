@@ -30,6 +30,12 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
+          "yaw": 3.051354335346579,
+          "pitch": 0.1455339176124646,
+          "rotation": 0,
+          "target": "4-spavaa-soba-1"
+        },
+        {
           "yaw": -2.4373653484387567,
           "pitch": 0.14380156520464737,
           "rotation": 0,
